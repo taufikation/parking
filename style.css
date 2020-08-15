@@ -1,0 +1,41 @@
+.text-kecil{
+    font-size: 0.76em;
+    color:#6582ef;
+}
+.atur{
+    overflow: scroll;
+    height: 240px;
+    width: 100%;
+    font-size: smaller;
+}
+.atur table tbody{
+    padding: 5px;
+}
+table{
+    width: 100%;
+}
+.col2{
+    width: 50%;
+    float: left;
+}
+.kotak{
+    height: 145px;
+}
+.tbl{
+    position: absolute;
+    top: -10px;
+    left: 5px;
+    font-size: 0.4em;
+}
+.pk2{
+    font-size: 0.7em;
+}
+.single-table{
+    font-size: 0.75em;
+}
+.mod1{
+    font-size: 20px;
+}
+.md2{
+    font-size: 2.0em;
+}
